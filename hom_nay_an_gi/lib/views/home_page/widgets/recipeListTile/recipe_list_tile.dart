@@ -89,7 +89,7 @@ class _RecipeListTileState extends State<RecipeListTile> {
                         crossAxisAlignment: CrossAxisAlignment.start,
                         children: [
                           Container(
-                            width: Dimensions.width140 - 7,
+                            width: Dimensions.width140 - 8,
                             padding: EdgeInsets.symmetric(
                               vertical: Dimensions.widthPadding5,
                               horizontal: Dimensions.widthPadding8,

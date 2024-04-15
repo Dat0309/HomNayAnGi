@@ -173,7 +173,7 @@ class _WidgetCategoriesState extends State<WidgetCategories> {
                                       left: Dimensions.widthPadding25,
                                     ),
                                     child: Container(
-                                      width: Dimensions.width150,
+                                      width: Dimensions.width140,
                                       height: Dimensions.height220,
                                       decoration: BoxDecoration(
                                         borderRadius: BorderRadius.circular(
